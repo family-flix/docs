@@ -26,4 +26,5 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/family-flix/api" },
     ],
   },
+  base: "/docs",
 });
