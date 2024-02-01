@@ -28,6 +28,6 @@
   "dependencies": {
     "@elog/cli": "^0.12.4",
     "@rollup/rollup-darwin-x64": "^4.5.2",
-    "vitepress": "^1.0.0-rc.27"
+    "vitepress": "^1.0.0-rc.40"
   }
 }
