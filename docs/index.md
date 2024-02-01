@@ -3,29 +3,29 @@
 layout: home
 
 hero:
-  name: "Yuque-VitePress"
-  text: "文档站点解决方案"
-  tagline: 语雀 + Elog + VitePress + GitHub Actions + Vercel 持续集成
+  name: "FamilyFlix"
+  text: "阿里云盘视频管理"
+  tagline: 视频刮削 + 云盘管理 + 自动更新 + 在线观看
   actions:
     - theme: brand
       text: 快速开始
-      link: /docs/入门指引/快速开始
-    - theme: brand
-      text: 短路由示例
-      link: /docs-shorturl/ssuhngw0yb3dgkkg
+      link: /docs/安装步骤
     - theme: alt
       text: GitHub
-      link: https://github.com/elog-x/yuque-vitepress
+      link: https://github.com/family-flix/api
 
 features:
   - icon: 📝
-    title: 语雀书写文档
-    details: 更好的在线写作体验，及时备份 markdown 文档到本地
+    title: 云盘刮削
+    details: 更强的文件名识别能力，支持自定义识别规则、忽略规则等
   - icon: 🚀
-    title: 持续集成
-    details: 结合语雀 Webhooks + Github Actions + Vercel，写完及时同步到文档站点
+    title: 剧集自动更新
+    details: 定时任务同步分享资源，无需手动转存新增剧集
   - icon: 📦
-    title: 开箱即用
-    details: 简单配置仓库即可部署属于你的文档站点
+    title: 快捷观看视频
+    details: 成员专属链接，无需登录同时还有播放历史记录
+  - icon: 📺
+    title: 多端视频播放
+    details: 微信内即可直接观看，还提供 PC 端满足不同需求
 ---
 
